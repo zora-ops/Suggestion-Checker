@@ -77,7 +77,7 @@ const Suggestions = () => {
         return <div>Loading Please Wait ...</div>
     }
 
-
+s
     return (
         <div>
             <div>
